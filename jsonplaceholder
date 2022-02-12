@@ -1,6 +1,7 @@
 {
-  "userId": 1,
-  "id": 1,
+
   "title": "Hardik Bhai API",
-  "body": "This Is Test Two From jsonplaceholder.typicode.com"
+  "body": "This Is Test Two From jsonplaceholder.typicode.com",
+  "API = Full Link ": "https://jsonplaceholder.typicode.com/posts/1"  
+  
 }
